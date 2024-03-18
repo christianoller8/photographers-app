@@ -95,9 +95,7 @@ A hook is also configured in the .git folder of the project that prevents you fr
 
 ### Deployed on Vercel
 
-
-### Responsive version
-
+https://photographers-4t6jhxwnb-christianoller8s-projects.vercel.app/photographers/list
 
 ### Autor ✒️
 
